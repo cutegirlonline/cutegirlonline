@@ -13,6 +13,6 @@
 <br>
 
 <p align="center">
-  <a href="https://cerealkiller.atabook.org/">ata</a><br>
+  <a href="https://cerealkiller.atabook.org/">ata</a> •
   <a href="https://colormytree.me/2025/01KBE6AZ76PPPCXKPGTH01BK51">tree</a>
 </p>

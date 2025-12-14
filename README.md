@@ -12,10 +12,3 @@
 <br>
 <br>
 
-<p align="center">
-  
-  [ata](https://cerealkiller.atabook.org/)
- [tree](https://colormytree.me/2025/01KBE6AZ76PPPCXKPGTH01BK51)
-
-
-</p>

@@ -7,8 +7,3 @@
 <p align="center">
   <img src="charlotte-pink-b-club.gif" width=450"/>
 </p>
-
-<br>
-<br>
-<br>
-

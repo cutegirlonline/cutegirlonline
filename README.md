@@ -5,5 +5,5 @@
 <br>
 
 <p align="center">
-  <img src="charlotte-pink-b-club.gif" width=450"/>
+  <img src="charlotte-pink-b-club.gif" width=400"/>
 </p>

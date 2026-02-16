@@ -12,6 +12,3 @@
 <br>
 <br>
 
-<p align="center">
-  <a href="https://cerealkiller.atabook.org/">ata</a> 
-  
